@@ -58,7 +58,7 @@ Because a pipeline report that only shows totals isn't a management tool. It's a
 - Deals sit idle for an average of 401 days before being lost; nearly 14 months of inactivity before a deal is formally abandoned. This is a management and process failure, not just a rep performance issue.
 - Negotiation and Closing stages bleed the most time, averaging 158 and 152 idle days respectively.
 - Company 267 (Healthcare) has logged 715 activities with zero open opportunities. High-engagement accounts without attached deals represent a significant missed conversion opportunity hiding in plain sight.
-Europe dominates pipeline and revenue while Latin America contributes the least. However, Asia-Pacific's pipeline-to-revenue gap warrants investigation as a potential growth or execution problem.
+- Europe dominates pipeline and revenue while Latin America contributes the least. However, Asia-Pacific's pipeline-to-revenue gap warrants investigation as a potential growth or execution problem.
 
 ---
 
@@ -66,9 +66,9 @@ Europe dominates pipeline and revenue while Latin America contributes the least.
 - The pipeline is large but fragile. €606M sounds strong until you realize 100% of open deals are high risk and the avg deal sits untouched for over a year.
 - Stage friction is predictable and fixable. Negotiation and Closing aren't failing randomly, They failed systematically, which means a process intervention will have measurable impact.
 - Top reps are massively outperforming the average. Isabelle Pereira's 73.08% win rate vs. the 60.21% average is a 13-point gap that should be studied and replicated, not ignored.
-Cloud Migration and Security are the highest-conviction products at 64.51% and 61.57% win rates. These two products close more than they lose and should anchor sales conversations.
-Engagement ≠ progress. Accounts with hundreds of logged activities and no open opportunities are a symptom of relationship management without commercial intent.
-Forecast accuracy at 95.20% is the one clear bright spot. The business can predict what will close. The problem is not forecasting. It's execution.
+- Cloud Migration and Security are the highest-conviction products at 64.51% and 61.57% win rates. These two products close more than they lose and should anchor sales conversations.
+- Engagement ≠ progress. Accounts with hundreds of logged activities and no open opportunities are a symptom of relationship management without commercial intent.
+- Forecast accuracy at 95.20% is the one clear bright spot. The business can predict what will close. The problem is not forecasting. It's execution.
 
 ---
 
