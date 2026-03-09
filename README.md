@@ -74,11 +74,11 @@ Forecast accuracy at 95.20% is the one clear bright spot. The business can predi
 
 ## ✅ Strategic Recommendations
 - Implement a 30-day inactivity trigger for all open deals. Any deal without activity in 30 days gets an automatic manager alert. The current average of 401 idle days is a process gap, not a rep gap and discouraging.
-Document and distribute Isabelle Pereira's pipeline methodology — a 73.08% win rate is not luck. Identifying what she does differently in Negotiation and Closing stages and turning it into a playbook can lift the entire team.
-Lead with Cloud Migration and Security in all new conversations. These products have the highest win rates and should be the entry point for new accounts, with other services introduced as expansions.
-Convert high-engagement, no-opportunity accounts immediately. Company 267 (715 activities), Company 295 (425 activities), and others represent warm relationships with no commercial structure. Assigning formal opportunities to these accounts is a near-zero-effort revenue action.
-Build stage-specific exit criteria for Negotiation and Closing. Deals stalling 150+ days at these stages need defined conditions to either advance or be formally disqualified.
-Investigate Asia-Pacific's pipeline-to-revenue gap. If pipeline is building and revenue is not converting at the same rate as Europe, then there is either a product-market fit issue, an execution gap, or a data quality problem that needs resolution.
+- Document and distribute Isabelle Pereira's pipeline methodology — a 73.08% win rate is not luck. Identifying what she does differently in Negotiation and Closing stages and turning it into a playbook can lift the entire team.
+- Lead with Cloud Migration and Security in all new conversations. These products have the highest win rates and should be the entry point for new accounts, with other services introduced as expansions.
+- Convert high-engagement, no-opportunity accounts immediately. Company 267 (715 activities), Company 295 (425 activities), and others represent warm relationships with no commercial structure. Assigning formal opportunities to these accounts is a near-zero-effort revenue action.
+- Build stage-specific exit criteria for Negotiation and Closing. Deals stalling 150+ days at these stages need defined conditions to either advance or be formally disqualified.
+- Investigate Asia-Pacific's pipeline-to-revenue gap. If pipeline is building and revenue is not converting at the same rate as Europe, then there is either a product-market fit issue, an execution gap, or a data quality problem that needs resolution.
 
 ---
 
