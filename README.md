@@ -82,12 +82,17 @@ Because a pipeline report that only shows totals isn't a management tool. It's a
 
 ---
 
-## Dashboard Visualization  
+## Documentation  
 
 [**View pbix, pdf snapshot excel and docs file**](https://drive.google.com/drive/folders/1h0o__4EHKsW3FI8TjsdjbTRpp5tZXQKU?usp=drive_link)
 
 ---
 
+## Dashboard Visualization
+
+[**Interact with the report here**](https://app.powerbi.com/view?r=eyJrIjoiZjA0ODA5MmItZWIwYy00YTczLWIwZDktMzM3MjM5NDE0ZjIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+---
 ## 🤝 Connect & Feedback
 If you found this project useful or have suggestions, feel free to:
 
